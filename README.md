@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1jiFW3oP0Uz9Hbc_9garvUxKRGb-MRc3bcfsuumxD0Zw/edit?usp=sharing](https://docs.google.com/document/d/1jiFW3oP0Uz9Hbc_9garvUxKRGb-MRc3bcfsuumxD0Zw/edit?usp=sharing)
 
-- ⚡ Fun fact **I can type 75-85 WPM**
+- ⚡ Fun fact **The fastest known algorithm for sorting a list of items is not the popular quicksort or mergesort, but rather the "stooge sort." However, it's not practical for large datasets.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
