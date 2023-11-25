@@ -20,6 +20,27 @@
 
 - ⚡ Fun fact **The fastest known algorithm for sorting a list of items is not the popular quicksort or mergesort, but rather the "stooge sort." However, it's not practical for large datasets.**
 
+ Kevin Shilla | Computer Science Major 🌐 | Economics Minor 📈
+
+Greetings! I'm Kevin Shilla, a 19-year-old on a thrilling journey through the world of technology and finance. Currently pursuing a Computer Science major with a keen interest in the intersection of technology and economics, I'm committed to pushing boundaries and crafting innovative solutions.
+
+🚀 Academic Pursuits:
+I am dedicated to honing my skills in both the realms of Computer Science and Economics. As a Computer Science major and Economics minor, I am driven by a passion for understanding the algorithms that power our digital world and the economic forces that shape our global landscape.
+
+🌍 Multilingual Explorer:
+Fluency in both English and Kiswahili allows me to bridge cultural gaps and connect with a diverse array of people. I believe that effective communication is the key to unlocking the full potential of any project.
+
+💻 Coding Maestro:
+Proficient in Java, C++, and Python, I have translated my theoretical knowledge into practical applications. Among my creations are classic games like Snake and Tic Tac Toe, where I've applied my programming prowess to breathe life into these timeless experiences. These projects not only showcase my technical abilities but also reflect my commitment to making coding accessible and enjoyable.
+
+🌐 Digital Portfolio Architect:
+Beyond the lines of code, I've designed and developed a portfolio website that serves as a digital canvas for my projects and ideas. This platform not only highlights my technical skills but also provides a glimpse into my creative approach to problem-solving.
+
+🛠️ Future Vision:
+Looking ahead, I aspire to contribute meaningfully to the ever-evolving tech landscape. Whether it's delving into complex algorithms, analyzing economic trends, or pioneering the next big innovation, I am ready to embrace the challenges that lie ahead.
+
+Join me on this exciting journey where code meets economics, and innovation knows no bounds!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kevin shilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin shilla" height="30" width="40" /></a>
