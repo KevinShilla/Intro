@@ -36,8 +36,10 @@ Proficient in Java, C++, and Python, I have translated my theoretical knowledge 
 🌐 Digital Portfolio Architect:
 Beyond the lines of code, I've designed and developed a portfolio website that serves as a digital canvas for my projects and ideas. This platform not only highlights my technical skills but also provides a glimpse into my creative approach to problem-solving.
 
-🛠️ Future Vision:
-Looking ahead, I aspire to contribute meaningfully to the ever-evolving tech landscape. Whether it's delving into complex algorithms, analyzing economic trends, or pioneering the next big innovation, I am ready to embrace the challenges that lie ahead.
+🛠️ Future-Forward:
+Looking ahead, my vision is rooted in pushing the boundaries of computer science. Whether unraveling complex algorithms, pioneering groundbreaking innovations, or contributing to the forefront of technological advancement, I am poised to be a trailblazer in the digital realm.
+
+Embark on this thrilling journey where every line of code becomes a stepping stone toward a future defined by innovation and technological excellence.
 
 Join me on this exciting journey where code meets economics, and innovation knows no bounds!
 
