@@ -22,7 +22,7 @@
 
  Kevin Shilla | Computer Science Major 🌐 | Economics Minor 📈
 
-Greetings! I'm Kevin Shilla, a 19-year-old on a thrilling journey through the world of technology and finance. Currently pursuing a Computer Science major with a keen interest in the intersection of technology and economics, I'm committed to pushing boundaries and crafting innovative solutions.
+Greetings! I'm Kevin Shilla, a 20-year-old on a thrilling journey through the world of technology and finance. Currently pursuing a Computer Science major with a keen interest in the intersection of technology and economics, I'm committed to pushing boundaries and crafting innovative solutions.
 
 🚀 Academic Pursuits:
 I am dedicated to honing my skills in both the realms of Computer Science and Economics. As a Computer Science major and Economics minor, I am driven by a passion for understanding the algorithms that power our digital world and the economic forces that shape our global landscape.
